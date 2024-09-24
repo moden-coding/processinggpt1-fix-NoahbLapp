@@ -16,6 +16,8 @@ public class App extends PApplet {
         line(400,60,500,40);
         fill(0,240,70);
         triangle(500,50,400,40,400,60);
+        fill(255,0,0);
+        rect(400,400,400,400);
     }
 
     public static void main(String[] args) {
